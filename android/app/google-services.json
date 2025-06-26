@@ -7,9 +7,28 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:690348610788:android:b212462262e894a28388f1",
+        "mobilesdk_app_id": "1:690348610788:android:941b4149d0156bc38388f1",
         "android_client_info": {
           "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH3qhVqu7jxS76VpNbT52ajLh4XJncQrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690348610788:android:2c52cc085bd1da658388f1",
+        "android_client_info": {
+          "package_name": "com.fadrial.chatapp"
         }
       },
       "oauth_client": [],

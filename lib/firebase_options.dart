@@ -42,7 +42,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyAD3b9yXwzdOn7lanzgQBZ-9OQ2ldbpEfg',
-    appId: '1:690348610788:web:c42b5b313310b67f8388f1',
+    appId: '1:690348610788:web:f4b208f80bf2ed9d8388f1',
     messagingSenderId: '690348610788',
     projectId: 'flutter-chat-app-4cf22',
     authDomain: 'flutter-chat-app-4cf22.firebaseapp.com',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCH3qhVqu7jxS76VpNbT52ajLh4XJncQrI',
-    appId: '1:690348610788:android:b212462262e894a28388f1',
+    appId: '1:690348610788:android:941b4149d0156bc38388f1',
     messagingSenderId: '690348610788',
     projectId: 'flutter-chat-app-4cf22',
     storageBucket: 'flutter-chat-app-4cf22.firebasestorage.app',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCh_iP3NyQDH7_cH1gQtZSSWLR511Io2vE',
-    appId: '1:690348610788:ios:5e8f660b6443c3358388f1',
+    appId: '1:690348610788:ios:1c25cad289999d608388f1',
     messagingSenderId: '690348610788',
     projectId: 'flutter-chat-app-4cf22',
     storageBucket: 'flutter-chat-app-4cf22.firebasestorage.app',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyCh_iP3NyQDH7_cH1gQtZSSWLR511Io2vE',
-    appId: '1:690348610788:ios:5e8f660b6443c3358388f1',
+    appId: '1:690348610788:ios:1c25cad289999d608388f1',
     messagingSenderId: '690348610788',
     projectId: 'flutter-chat-app-4cf22',
     storageBucket: 'flutter-chat-app-4cf22.firebasestorage.app',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyAD3b9yXwzdOn7lanzgQBZ-9OQ2ldbpEfg',
-    appId: '1:690348610788:web:c65fec6419bd18188388f1',
+    appId: '1:690348610788:web:d027f564c6e8713d8388f1',
     messagingSenderId: '690348610788',
     projectId: 'flutter-chat-app-4cf22',
     authDomain: 'flutter-chat-app-4cf22.firebaseapp.com',
